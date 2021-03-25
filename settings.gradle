@@ -1,0 +1,5 @@
+include ':Stopwatch'
+include ':LotteryLifeCycle'
+include ':LotteryInstanceState'
+include ':app'
+rootProject.name = "Chapter4"

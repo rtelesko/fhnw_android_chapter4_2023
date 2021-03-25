@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lottery InstanceState</string>
+    <string name="generateNumbers">Generate</string>
+    <string name="initCounter">Counter: 0</string>
+</resources>
