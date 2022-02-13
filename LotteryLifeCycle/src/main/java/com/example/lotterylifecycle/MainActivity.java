@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         btGenerateNumbers = findViewById(R.id.btGenerateNumbers);
         // Get reference to the TextView which shows the result
         tvResult = findViewById(R.id.tvResult);
-        // Event Handler with Anonymous Inner Class
+        // Event Handler implemented with Anonymous Inner Class
         btGenerateNumbers.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
